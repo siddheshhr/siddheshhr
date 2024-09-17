@@ -1,5 +1,5 @@
  💫 About Me:
- Hello, I'm Siddhesh Raskar! 👋<br><br> 🌟 I am looking for opportunities:<br>- To join a dynamic team as a Software Development Engineer (SDE) where I can contribute my skills in full-stack development, data visualization, and API integration.<br>- To collaborate on open-source projects that make a positive impact.<br><br> 😄 Fun fact:<br>I sometimes solve DSA problems for fun and peace of mind !📈
+ Hello👋<br><br> 🌟 I am looking for opportunities:<br>- To join a dynamic team as a Software Development Engineer (SDE) where I can contribute my skills in full-stack development, data visualization, and API integration.<br>- To collaborate on open-source projects that make a positive impact.<br><br> 😄 Fun fact:<br>I sometimes solve DSA problems for fun and peace of mind !📈
 
  🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/siddhesh-r-357957256/) 
