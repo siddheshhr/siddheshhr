@@ -1,5 +1,28 @@
- 💫 About Me:
- Hello👋<br><br> 🌟 I am looking for opportunities:<br>- To join a dynamic team as a Software Development Engineer (SDE) where I can contribute my skills in full-stack development, data visualization, and API integration.<br>- To collaborate on open-source projects that make a positive impact.<br><br> 😄 Fun fact:<br>I sometimes solve DSA problems for fun and peace of mind !📈
+🚀 About Me
+Passionate full-stack developer and tech innovator with a blend of web development, AI, and quantum computing interests. When I'm not crafting elegant code, you'll find me solving DSA challenges or exploring the quantum realm!
+💡 Tech Playground
+Web Development Wizardry
+
+🌐 Crafting responsive web experiences with React, Node.js, and modern frameworks
+🔧 Turning complex ideas into intuitive, high-performance applications
+🔐 Expert in authentication, state management, and seamless API integrations
+
+AI & Machine Learning Explorations
+
+🤖 Transforming data into insights with Python and TensorFlow
+📊 Building intelligent systems that learn and adapt
+🧠 Fine-tuning models to push the boundaries of artificial intelligence
+
+Quantum Computing Curiosity
+
+🔬 Researching the intersection of quantum technologies and computational systems
+📝 Published researcher exploring quantum applications in medical cyber-physical systems
+
+🏆 Competitive Programming Highlights
+
+🌟 Top 5% in global coding challenges
+🏅 TechGig Code Gladiators Finalist
+💻 LeetCode Rating: Knight 
 
  🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/siddhesh-r-357957256/) 
